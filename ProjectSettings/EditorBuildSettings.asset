@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MenuTestingScene.unity
+    guid: 90398c1e13bfa7745a23cf4f81452b12
+  - enabled: 1
+    path: Assets/Scenes/loadScene.unity
+    guid: 752149669e5425541a2d11754e8a01e8
+  - enabled: 1
+    path: Assets/Scenes/ShipSelection.unity
+    guid: 5b5c66db0ef2a5a4a8257d59be3d1fcb
+  - enabled: 1
+    path: Assets/Scenes/OptionsMenu.unity
+    guid: 75c2fa316e9ecbb4bb421d8a69da27c9
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 79ac8ac806f49d043800aa398791f4ed
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 3e031ed63c0d63140a45c3f68320dda1
+  - enabled: 0
+    path: Assets/Scenes/MarcTesting.unity
+    guid: 5b5f3c2d3016aa5408ea36ee8b5747a3
+  m_configObjects: {}
